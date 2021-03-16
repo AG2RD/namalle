@@ -27,6 +27,7 @@
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1",
     "reflect-metadata": "^0.1.13",
+    "simple-git": "^2.32.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
